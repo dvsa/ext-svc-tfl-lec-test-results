@@ -1,4 +1,4 @@
-# cvs-svc-lec-test-results
+# ext-svc-tfl-lec-test-results
 
 #### Run AWS Lambda node functions locally with a mock API Gateway
 - `npm install`
